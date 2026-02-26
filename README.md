@@ -40,4 +40,4 @@ the application performs basic arithmetic operations such as Addition , Subtract
 -user input handling
 ----
 ## project overview 
-![calculator application](C:\Users\Aarati rajaram patil\Downloads\image (16).png )
+![calculator application](image (16).png )
